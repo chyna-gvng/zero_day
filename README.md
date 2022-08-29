@@ -1,2 +1,2 @@
 ### Vagrant
-Readme file for intro to :vagrant
+Readme file for intro to vagrant
